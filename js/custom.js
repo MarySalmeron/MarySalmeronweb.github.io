@@ -97,11 +97,11 @@
 		$('.flex-next').addClass('fa fa-angle-right').text('');
 		$('.flex-prev').addClass('fa fa-angle-left').text('');
 
-		$('.home li > img').each(function(){
+		/*$('.home li > img').each(function(){
 			$(this).css('background-image', 'url(' + $(this).attr('src') + ')')
 				   .attr('src', '../images/1x1-blue.png')
 				   .height($(window).height());
-		});
+		});*/
 	},0)
 
 
