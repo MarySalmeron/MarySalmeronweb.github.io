@@ -37,6 +37,11 @@ h3 {
 	color: #FFF;
 }
 
+h2 {
+	font-size: 25 px;
+	color:rgba(0, 0, 0, .7);
+}
+
 p {
 	margin-bottom: 22px;
 	font-family: "Open Sans", sans-serif;
@@ -1555,13 +1560,13 @@ footer {
 #main-menu ul li a {
     line-height: 23px;
     display: inherit;
-    border-bottom: 1px solid #2C2C2C;
+    border-bottom: 1px solid #265056;
     padding: 5px 20px;
 	background:transparent;
 }
 
 #main-menu ul li a:hover, #main-menu ul li.active a {
-	background:#2C2C2C !important;
+	background:#265056 !important;
 	color:#FFF;
 }
 
